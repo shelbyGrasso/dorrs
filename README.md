@@ -1,5 +1,5 @@
 # dorrs
-Reservation web application
+Reservation web application (Dec '21)
 
 Welcome to DORRS, a web application designed to track reservations for shared conference room spaces. DORRS is an acronym that stands for "DORRS Offers Room Reservation Services."
 
